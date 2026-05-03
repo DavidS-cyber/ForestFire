@@ -1,4 +1,4 @@
-# 🔥 Forest Fire Simulator — Drossel-Schwabl
+#  Forest Fire Simulator — Drossel-Schwabl
 
 Simulación de incendios forestales como servicio web.  
 Proyecto individual — Desarrollo Web en Entorno Servidor, UD4.
